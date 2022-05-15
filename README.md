@@ -11,8 +11,6 @@
 * Express.js
 * MongoDB
 
-![image](https://user-images.githubusercontent.com/58146834/168463138-c59cd33c-c260-46ff-b76a-d911aa49e98e.png)
-https://i.gifer.com/Jnrg.gif
 
 
 <!--
