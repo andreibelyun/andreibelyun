@@ -10,6 +10,9 @@
 * Node.js
 * Express.js
 * MongoDB
+
+![image](https://user-images.githubusercontent.com/58146834/168463138-c59cd33c-c260-46ff-b76a-d911aa49e98e.png)
+
 <!--
 **andreibelyun/andreibelyun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
