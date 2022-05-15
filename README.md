@@ -11,7 +11,7 @@
 * Express.js
 * MongoDB
 
-
+<img class="hidden dark:inline-block" src="/users/andreibelyun/badges/large?logo=false">
 
 <!--
 **andreibelyun/andreibelyun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
