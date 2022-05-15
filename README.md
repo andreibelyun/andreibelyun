@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+### My name is Andrew and I'm a beginner web developer 💻
+
+### My stack:
+* HTML
+* CSS
+* JavaScript
+* React.js
+* Node.js
+* Express.js
+* MongoDB
 <!--
 **andreibelyun/andreibelyun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
