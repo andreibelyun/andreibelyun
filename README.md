@@ -11,7 +11,7 @@
 * Express.js
 * MongoDB
 
-<img class="hidden dark:inline-block" src="/users/andreibelyun/badges/large?logo=false">
+<img src="https://www.codewars.com/users/andreibelyun/badges/large">
 
 <!--
 **andreibelyun/andreibelyun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
