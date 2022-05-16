@@ -13,7 +13,7 @@
 <img src='./techs/javascript_icon.png' width='40' alt='JavaScript'>
 <img src='./techs/react_icon.png' width='40' alt='React.js'>
 <img src='./techs/node_icon.png' width='40' alt='Node.js'>
-<img src='./techs/express_icon.png' width='40' alt='Express.js' style='background: white; border-radius: 3px'>
+<img src='./techs/express.svg' width='40' alt='Express.js'>
 <img src='./techs/mongo_icon.png' width='40' alt='MongoDB'>
 
 
@@ -23,7 +23,7 @@
 <img src='./techs/git_icon.png' width='40'>
 
 ### My statistics:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andreibelyun)](https://github.com/andreibelyun) <img src='./coding.gif' width='275' style='border-radius: 5px'>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andreibelyun)](https://github.com/andreibelyun) <img src='./coding.gif' width='275'>
 
 ### Codewars progress:
 <img src="https://www.codewars.com/users/andreibelyun/badges/large">
