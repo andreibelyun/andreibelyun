@@ -1,5 +1,4 @@
 ### Hi there 👋 My name is Andrew and I'm a beginner web developer 💻
-&nbsp;
 ### 🎯 My plans for the near future:
 * get a job in a cool team 🔥
 * work on interesting tasks 🤩
@@ -8,7 +7,7 @@
 * start learning typescript 📚
 
 ### My stack:
-<img src='./techs/html_icon.png' width='40' alt='HTML'>&nbsp;
+<img src='./techs/html_icon.png' width='40' alt='HTML'>
 <img src='./techs/css_icon.png' width='40' alt='CSS'>
 <img src='./techs/javascript_icon.png' width='40' alt='JavaScript'>
 <img src='./techs/react_icon.png' width='40' alt='React.js'>
