@@ -12,11 +12,7 @@
 <img src='./techs/javascript_icon.png' width='40' alt='JavaScript'>
 <img src='./techs/react_icon.png' width='40' alt='React.js'>
 <img src='./techs/node_icon.png' width='40' alt='Node.js'>
-<<<<<<< HEAD
-<img src='./techs/express.svg' width='40' alt='Express.js'>
-=======
-<img src='./techs/express_icon.png' width='40' alt='Express.js' background='white' style='background: white; border-radius: 3px'>
->>>>>>> 39d2cb428c06472f4cb90d41eb09b056be886fa3
+<img src='./techs/express_icon.png' width='40' alt='Express.js'>
 <img src='./techs/mongo_icon.png' width='40' alt='MongoDB'>
 
 
