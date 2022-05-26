@@ -25,4 +25,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andreibelyun)](https://github.com/andreibelyun) <img src='./coding.gif' width='275'>
 
 ### Codewars progress:
-<img src="https://www.codewars.com/users/andreibelyun/badges/large">
+<img src="https://www.codewars.com/users/andreibelyun/badges/large">[](https://www.codewars.com/users/andreibelyun)
