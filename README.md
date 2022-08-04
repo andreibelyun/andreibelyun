@@ -26,3 +26,8 @@
 
 ### Codewars progress:
 [<img src="https://www.codewars.com/users/andreibelyun/badges/large">](https://www.codewars.com/users/andreibelyun)
+
+### My contacts:
+LinkedIn: [andreibelyun](https://www.linkedin.com/in/andreibelyun/)
+
+Telegram: [belandrew](https://t.me/belandrew)
