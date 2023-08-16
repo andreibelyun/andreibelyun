@@ -1,19 +1,13 @@
-### Hi there 👋 My name is Andrew and I'm a beginner web developer 💻
-### 🎯 My plans for the near future:
-* get a job in a cool team 🔥
-* start working on real projects 🤩
-* keep improving my knowledge in javaScript and react 📚
-* increase my productivity 🔋
-* start learning typescript🔍
+### Hi there 👋 My name is Andrew, I'm a front-end developer 💻
 
-### My stack:
+### My main tech stack:
 <img src='./techs/html_icon.png' width='40' alt='HTML'>&nbsp;
 <img src='./techs/css_icon.png' width='40' alt='CSS'>
 <img src='./techs/javascript_icon.png' width='40' alt='JavaScript'>
 <img src='./techs/react_icon.png' width='40' alt='React.js'>
-<img src='./techs/node_icon.png' width='40' alt='Node.js'>
-<img src='./techs/ex.png' width='40' alt='Express.js'>
-<img src='./techs/mongo_icon.png' width='40' alt='MongoDB'>
+<!--- <img src='./techs/node_icon.png' width='40' alt='Node.js'> --->
+<!--- <img src='./techs/ex.png' width='40' alt='Express.js'> --->
+<!--- <img src='./techs/mongo_icon.png' width='40' alt='MongoDB'> --->
 
 
 ### Also I use:
