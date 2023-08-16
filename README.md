@@ -15,7 +15,7 @@
 <img src='./techs/npm_icon.png' width='40'>
 <img src='./techs/git_icon.png' width='40'>
 
-### My statistics:
+### My statistics on GitHub:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andreibelyun)](https://github.com/andreibelyun) <img src='./coding.gif' width='275'>
 
 ### Codewars progress:
