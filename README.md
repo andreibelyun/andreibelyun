@@ -14,7 +14,7 @@
 <img src='./techs/webpack.svg' width='40' alt='Webpack'>
 <img src='./techs/docker.svg' width='40' alt='Docker'>
 
-### My statistics on GitHub:
+### Statistics on GitHub:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andreibelyun)](https://github.com/andreibelyun)
 
@@ -22,7 +22,7 @@
 
 [<img src="https://www.codewars.com/users/andreibelyun/badges/large">](https://www.codewars.com/users/andreibelyun)
 
-### My contacts:
+### Contacts:
 
 LinkedIn: [andreibelyun](https://www.linkedin.com/in/andreibelyun/)
 
